@@ -1,31 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Valaxy Theme Yun</title>
-        <link>https://valaxy.site/</link>
-        <description>Valaxy Theme Yun Preview.</description>
-        <lastBuildDate>Sat, 11 Jan 2025 12:03:58 GMT</lastBuildDate>
+        <title>神仙渡</title>
+        <link>https://i0ve.us.kg/</link>
+        <description>一只生活在神仙渡的小猪</description>
+        <lastBuildDate>Sun, 12 Jan 2025 17:32:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
-            <title>Valaxy Theme Yun</title>
+            <title>神仙渡</title>
             <url>https://valaxy.site/valaxy-logo.png</url>
-            <link>https://valaxy.site/</link>
+            <link>https://i0ve.us.kg/</link>
         </image>
-        <copyright>CC BY-NC-SA 4.0 2025 © 云游君</copyright>
-        <atom:link href="https://valaxy.site/feed.xml" rel="self" type="application/rss+xml"/>
+        <copyright>CC BY-NC-SA 4.0 2025 © 小猪</copyright>
+        <atom:link href="https://i0ve.us.kg/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hello, Valaxy!]]></title>
-            <link>https://valaxy.site/posts/hello-valaxy</link>
-            <guid>https://valaxy.site/posts/hello-valaxy</guid>
+            <link>https://i0ve.us.kg/posts/hello-valaxy</link>
+            <guid>https://i0ve.us.kg/posts/hello-valaxy</guid>
             <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<h2>Valaxy</h2>
-<p>Next Generation Static Blog Framework.</p>
-<p>Write your first post!</p>
-<h2>Usage</h2>
-<p>Modify `valaxy</p>
-<br/><p>访问 <a href="https://valaxy.site/posts/hello-valaxy" target="_blank">https://valaxy.site/posts/hello-valaxy</a> 阅读全文。</p>]]></content:encoded>
-            <author>i@valaxy.site (云游君)</author>
+            <content:encoded><![CDATA[<p>zh-CN<br>
+另一种 i18n 方案。</p>
+<p>更多内容：...</p>
+<h3>你好，世界 {lang=&quot;zh-CN&quot;}</h3>
+<h3>Hello World {lang=&quot;en&quot;}</h3>
+<h2>Valaxy</h2>
+<p>Nex</p>
+<br/><p>访问 <a href="https://i0ve.us.kg/posts/hello-valaxy" target="_blank">https://i0ve.us.kg/posts/hello-valaxy</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (小猪)</author>
         </item>
     </channel>
 </rss>
