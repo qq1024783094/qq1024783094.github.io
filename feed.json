@@ -4,7 +4,7 @@
     "home_page_url": "https://i0ve.us.kg/",
     "feed_url": "https://i0ve.us.kg/feed.json",
     "description": "一只生活在神仙渡的小猪",
-    "icon": "https://valaxy.site/valaxy-logo.png",
+    "icon": "https://i0ve.us.kg/2.jpg",
     "author": {
         "name": "小猪",
         "url": "https://valaxy.site"
@@ -12,7 +12,7 @@
     "items": [
         {
             "id": "",
-            "content_html": "<p>zh-CN<br>\n另一种 i18n 方案。</p>\n<p>更多内容：...</p>\n<h3>你好，世界 {lang=&quot;zh-CN&quot;}</h3>\n<h3>Hello World {lang=&quot;en&quot;}</h3>\n<h2>Valaxy</h2>\n<p>Nex</p>\n<br/><p>访问 <a href=\"https://i0ve.us.kg/posts/hello-valaxy\" target=\"_blank\">https://i0ve.us.kg/posts/hello-valaxy</a> 阅读全文。</p>",
+            "content_html": "<h2>Valaxy</h2>\n<p>Next Generation Static Blog Framework.</p>\n<p>Write your first post!</p>\n<h2>Usage</h2>\n<p>Modify `valaxy</p>\n<br/><p>访问 <a href=\"https://i0ve.us.kg/posts/hello-valaxy\" target=\"_blank\">https://i0ve.us.kg/posts/hello-valaxy</a> 阅读全文。</p>",
             "url": "https://i0ve.us.kg/posts/hello-valaxy",
             "title": "Hello, Valaxy!",
             "date_modified": "2022-04-01T00:00:00.000Z",

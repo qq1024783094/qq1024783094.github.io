@@ -4,12 +4,12 @@
         <title>神仙渡</title>
         <link>https://i0ve.us.kg/</link>
         <description>一只生活在神仙渡的小猪</description>
-        <lastBuildDate>Sun, 12 Jan 2025 17:32:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jan 2025 16:04:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
             <title>神仙渡</title>
-            <url>https://valaxy.site/valaxy-logo.png</url>
+            <url>https://i0ve.us.kg/2.jpg</url>
             <link>https://i0ve.us.kg/</link>
         </image>
         <copyright>CC BY-NC-SA 4.0 2025 © 小猪</copyright>
@@ -19,13 +19,11 @@
             <link>https://i0ve.us.kg/posts/hello-valaxy</link>
             <guid>https://i0ve.us.kg/posts/hello-valaxy</guid>
             <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<p>zh-CN<br>
-另一种 i18n 方案。</p>
-<p>更多内容：...</p>
-<h3>你好，世界 {lang=&quot;zh-CN&quot;}</h3>
-<h3>Hello World {lang=&quot;en&quot;}</h3>
-<h2>Valaxy</h2>
-<p>Nex</p>
+            <content:encoded><![CDATA[<h2>Valaxy</h2>
+<p>Next Generation Static Blog Framework.</p>
+<p>Write your first post!</p>
+<h2>Usage</h2>
+<p>Modify `valaxy</p>
 <br/><p>访问 <a href="https://i0ve.us.kg/posts/hello-valaxy" target="_blank">https://i0ve.us.kg/posts/hello-valaxy</a> 阅读全文。</p>]]></content:encoded>
             <author>i@valaxy.site (小猪)</author>
         </item>

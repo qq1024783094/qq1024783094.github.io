@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://i0ve.us.kg/</id>
     <title>神仙渡</title>
-    <updated>2025-01-12T17:32:02.904Z</updated>
+    <updated>2025-01-13T16:04:43.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>小猪</name>
@@ -12,7 +12,7 @@
     <link rel="alternate" href="https://i0ve.us.kg/"/>
     <link rel="self" href="https://i0ve.us.kg/atom.xml"/>
     <subtitle>一只生活在神仙渡的小猪</subtitle>
-    <logo>https://valaxy.site/valaxy-logo.png</logo>
+    <logo>https://i0ve.us.kg/2.jpg</logo>
     <icon>https://i0ve.us.kg/favicon.svg</icon>
     <rights>CC BY-NC-SA 4.0 2025 © 小猪</rights>
     <entry>
@@ -20,13 +20,11 @@
         <id>https://i0ve.us.kg/posts/hello-valaxy</id>
         <link href="https://i0ve.us.kg/posts/hello-valaxy"/>
         <updated>2022-04-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p>zh-CN<br>
-另一种 i18n 方案。</p>
-<p>更多内容：...</p>
-<h3>你好，世界 {lang=&quot;zh-CN&quot;}</h3>
-<h3>Hello World {lang=&quot;en&quot;}</h3>
-<h2>Valaxy</h2>
-<p>Nex</p>
+        <content type="html"><![CDATA[<h2>Valaxy</h2>
+<p>Next Generation Static Blog Framework.</p>
+<p>Write your first post!</p>
+<h2>Usage</h2>
+<p>Modify `valaxy</p>
 <br/><p>访问 <a href="https://i0ve.us.kg/posts/hello-valaxy" target="_blank">https://i0ve.us.kg/posts/hello-valaxy</a> 阅读全文。</p>]]></content>
         <author>
             <name>小猪</name>
