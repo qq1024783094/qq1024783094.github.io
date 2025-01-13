@@ -4,7 +4,7 @@
         <title>神仙渡</title>
         <link>https://i0ve.us.kg/</link>
         <description>一只生活在神仙渡的小猪</description>
-        <lastBuildDate>Mon, 13 Jan 2025 16:09:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jan 2025 16:35:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -14,6 +14,19 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2025 © 小猪</copyright>
         <atom:link href="https://i0ve.us.kg/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[地塞米松抑制试验]]></title>
+            <link>https://i0ve.us.kg/posts/地塞米松</link>
+            <guid>https://i0ve.us.kg/posts/地塞米松</guid>
+            <pubDate>Mon, 13 Jan 2025 16:34:56 GMT</pubDate>
+            <content:encoded><![CDATA[<p>地塞米松抑制试验（DST）是一种用于评估下丘脑 - 垂体 - 肾上腺（HPA）轴功能的内分泌检查方法，主要用于诊断库欣综合征等肾上腺皮质功能亢进相关疾病。</p>
+<p><strong>一、原理</strong></p>
+<ol>
+<li></li>
+</ol>
+<br/><p>访问 <a href="https://i0ve.us.kg/posts/地塞米松" target="_blank">https://i0ve.us.kg/posts/地塞米松</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (小猪)</author>
+        </item>
         <item>
             <title><![CDATA[Hello, Valaxy!]]></title>
             <link>https://i0ve.us.kg/posts/hello-valaxy</link>
