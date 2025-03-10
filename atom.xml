@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://i0ve.us.kg/</id>
     <title>神仙渡</title>
-    <updated>2025-01-17T08:33:10.413Z</updated>
+    <updated>2025-03-10T08:40:46.945Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>小猪</name>
@@ -16,28 +16,10 @@
     <icon>https://i0ve.us.kg/favicon.svg</icon>
     <rights>CC BY-NC-SA 4.0 2025 © 小猪</rights>
     <entry>
-        <title type="html"><![CDATA[寄生虫]]></title>
-        <id>https://i0ve.us.kg/posts/寄生虫</id>
-        <link href="https://i0ve.us.kg/posts/寄生虫"/>
-        <updated>2025-01-17T07:50:03.601Z</updated>
-        <content type="html"><![CDATA[<h1>寄生虫</h1>
-<p>蠕虫和原虫</p>
-<p>蠕虫包括线虫 吸虫和绦虫 ，原虫是单细胞真核</p>
-<h2>自然疫原性</h2>
-<p>自然疫源性，有些病原体在自然条件下，即使没有人类或家养动物的参与，也可通过传播媒介（主要是吸血昆虫）感</p>
-<br/><p>访问 <a href="https://i0ve.us.kg/posts/寄生虫" target="_blank">https://i0ve.us.kg/posts/寄生虫</a> 阅读全文。</p>]]></content>
-        <author>
-            <name>小猪</name>
-            <email>i@valaxy.site</email>
-            <uri>https://valaxy.site</uri>
-        </author>
-        <published>2025-01-17T07:50:03.601Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[地塞米松抑制试验]]></title>
         <id>https://i0ve.us.kg/posts/地塞米松</id>
         <link href="https://i0ve.us.kg/posts/地塞米松"/>
-        <updated>2025-01-16T07:40:43.027Z</updated>
+        <updated>2025-01-15T09:14:39.372Z</updated>
         <content type="html"><![CDATA[<p>地塞米松抑制试验（DST）是一种用于评估下丘脑 - 垂体 - 肾上腺（HPA）轴功能的内分泌检查方法，主要用于诊断库欣综合征等肾上腺皮质功能亢进相关疾病。</p>
 <h2>一、原理</h2>
 <ol>
