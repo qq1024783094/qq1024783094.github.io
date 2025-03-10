@@ -1,0 +1,1 @@
+import"./chunks/@vueuse/motion.QKQgXNlf.js";import{V as a}from"./app.BdVgmeLu.js";import{a9 as s,b3 as r,X as p,b_ as e,be as t,bB as n}from"./framework.BKJYaCLv.js";const f=s({__name:"ValaxyFootnoteTooltip",setup(l){return(o,i)=>(r(),p(n(a),{class:"inline-block",distance:8},{popper:e(()=>[t(o.$slots,"popper")]),default:e(()=>[t(o.$slots,"default")]),_:3}))}});export{f as _};
