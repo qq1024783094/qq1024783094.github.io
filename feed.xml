@@ -4,7 +4,7 @@
         <title>神仙渡</title>
         <link>https://g.chenliuxu.cn/</link>
         <description>一只生活在神仙渡的小猪.</description>
-        <lastBuildDate>Thu, 13 Mar 2025 13:59:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Mar 2025 14:43:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -14,6 +14,16 @@
         </image>
         <copyright>CC BY-NC-SA 4.0 2025 © 小猪</copyright>
         <atom:link href="https://g.chenliuxu.cn/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[AI模型优化三大利器：剪枝、蒸馏与量化]]></title>
+            <link>https://g.chenliuxu.cn/posts/AI模型优化三大利器：剪枝、蒸馏与量化</link>
+            <guid>https://g.chenliuxu.cn/posts/AI模型优化三大利器：剪枝、蒸馏与量化</guid>
+            <pubDate>Sun, 23 Mar 2025 14:42:13 GMT</pubDate>
+            <content:encoded><![CDATA[<p>作者：[蛮不讲李]2024.08.16 18:08</p>
+<p>_简介：_本文深入探讨了AI模型优化的三大关键技术——剪枝、蒸馏与量化，简明扼要地介绍了这些技术的原理、应用场景及实践方法，帮助读者理解并应用</p>
+<br/><p>访问 <a href="https://g.chenliuxu.cn/posts/AI模型优化三大利器：剪枝、蒸馏与量化" target="_blank">https://g.chenliuxu.cn/posts/AI模型优化三大利器：剪枝、蒸馏与量化</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (小猪)</author>
+        </item>
         <item>
             <title><![CDATA[地塞米松抑制试验]]></title>
             <link>https://g.chenliuxu.cn/posts/地塞米松</link>

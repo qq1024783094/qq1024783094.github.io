@@ -12,6 +12,18 @@
     "items": [
         {
             "id": "",
+            "content_html": "<p>作者：[蛮不讲李]2024.08.16 18:08</p>\n<p>_简介：_本文深入探讨了AI模型优化的三大关键技术——剪枝、蒸馏与量化，简明扼要地介绍了这些技术的原理、应用场景及实践方法，帮助读者理解并应用</p>\n<br/><p>访问 <a href=\"https://g.chenliuxu.cn/posts/AI模型优化三大利器：剪枝、蒸馏与量化\" target=\"_blank\">https://g.chenliuxu.cn/posts/AI模型优化三大利器：剪枝、蒸馏与量化</a> 阅读全文。</p>",
+            "url": "https://g.chenliuxu.cn/posts/AI模型优化三大利器：剪枝、蒸馏与量化",
+            "title": "AI模型优化三大利器：剪枝、蒸馏与量化",
+            "date_modified": "2025-03-23T14:42:13.465Z",
+            "date_published": "2025-03-23T14:42:13.465Z",
+            "author": {
+                "name": "小猪",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
             "content_html": "<p>地塞米松抑制试验（DST）是一种用于评估下丘脑 - 垂体 - 肾上腺（HPA）轴功能的内分泌检查方法，主要用于诊断库欣综合征等肾上腺皮质功能亢进相关疾病。</p>\n<h2>一、原理</h2>\n<ol>\n<li>\n<ul>\n<li></li>\n</ul>\n</li>\n</ol>\n<br/><p>访问 <a href=\"https://g.chenliuxu.cn/posts/地塞米松\" target=\"_blank\">https://g.chenliuxu.cn/posts/地塞米松</a> 阅读全文。</p>",
             "url": "https://g.chenliuxu.cn/posts/地塞米松",
             "title": "地塞米松抑制试验",
