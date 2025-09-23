@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://g.chenliuxu.cn/sitemap.xml
+Sitemap: https://gt.1314220.xyz/sitemap.xml
