@@ -1,0 +1,14 @@
+{
+  "uploadByClipSwitch": true,
+  "uploader": "LskyPro",
+  "token": "Bearer 1|tOPjkLyJ5MguTPb72nTQnB9ukhAt9Q3NBRxFhcdW",
+  "strategy_id": "1",
+  "uploadServer": "http://fn.chenliuxu.cn:9002/",
+  "imageSizeSuffix": "",
+  "workOnNetWork": false,
+  "fixPath": false,
+  "applyImage": false,
+  "newWorkBlackDomains": "",
+  "deleteSource": false,
+  "uploadedImages": []
+}
