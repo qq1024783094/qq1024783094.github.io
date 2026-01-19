@@ -1,7 +1,7 @@
 ---
 layout: categories
 nav: false
-aside: false
+toc: false
 icon: i-ri-folder-2-line
 # You can custom title
 # title: 云游的小分类

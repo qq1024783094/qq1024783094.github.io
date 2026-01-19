@@ -2,6 +2,6 @@
 title: 关于站点
 ---
 
-世人都说神仙好，惟有功名忘不了
+Valaxy + valaxy-theme-yun Demo Site
 
- —— 神仙渡
+- Default Theme: [valaxy-theme-yun](https://github.com/YunYouJun/valaxy/blob/main/packages/valaxy-theme-yun/)

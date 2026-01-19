@@ -5,13 +5,23 @@
     "lib": ["DOM", "ESNext"],
     "baseUrl": ".",
     "module": "ESNext",
-    "moduleResolution": "node",
+    "moduleResolution": "bundler",
+    "paths": {
+      "~/*": ["./*"]
+    },
     "resolveJsonModule": true,
+    "types": [
+      "vite/client",
+      "valaxy/client",
+      "vite-plugin-vue-layouts/client",
+      "unplugin-vue-router/client"
+    ],
     "strict": true,
     "strictNullChecks": true,
     "noUnusedLocals": true,
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
+    "skipDefaultLibCheck": true,
     "skipLibCheck": true
   },
   "exclude": ["dist", "node_modules"]

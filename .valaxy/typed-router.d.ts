@@ -30,13 +30,6 @@ declare module 'vue-router/auto-routes' {
       Record<never, never>,
       | never
     >,
-    '/_drafts/README': RouteRecordInfo<
-      '/_drafts/README',
-      '/_drafts/README',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
     '/[...path]': RouteRecordInfo<
       '/[...path]',
       '/:path(.*)',
@@ -65,41 +58,6 @@ declare module 'vue-router/auto-routes' {
       Record<never, never>,
       | never
     >,
-    '/albums/': RouteRecordInfo<
-      '/albums/',
-      '/albums',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/albums/daily': RouteRecordInfo<
-      '/albums/daily',
-      '/albums/daily',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/albums/miracle': RouteRecordInfo<
-      '/albums/miracle',
-      '/albums/miracle',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/albums/sunset': RouteRecordInfo<
-      '/albums/sunset',
-      '/albums/sunset',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/albums/young': RouteRecordInfo<
-      '/albums/young',
-      '/albums/young',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
     '/archives/': RouteRecordInfo<
       '/archives/',
       '/archives',
@@ -107,114 +65,9 @@ declare module 'vue-router/auto-routes' {
       Record<never, never>,
       | never
     >,
-    '/bangumi/': RouteRecordInfo<
-      '/bangumi/',
-      '/bangumi',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
     '/categories/': RouteRecordInfo<
       '/categories/',
       '/categories',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/collections1/': RouteRecordInfo<
-      '/collections1/',
-      '/collections1',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/collections1/i-and-she/': RouteRecordInfo<
-      '/collections1/i-and-she/',
-      '/collections1/i-and-she',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/collections1/i-and-she/1': RouteRecordInfo<
-      '/collections1/i-and-she/1',
-      '/collections1/i-and-she/1',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/collections1/i-and-she/2': RouteRecordInfo<
-      '/collections1/i-and-she/2',
-      '/collections1/i-and-she/2',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/collections1/i-and-she/3': RouteRecordInfo<
-      '/collections1/i-and-she/3',
-      '/collections1/i-and-she/3',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/collections1/love-and-peace/': RouteRecordInfo<
-      '/collections1/love-and-peace/',
-      '/collections1/love-and-peace',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/collections1/love-and-peace/1': RouteRecordInfo<
-      '/collections1/love-and-peace/1',
-      '/collections1/love-and-peace/1',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/collections1/love-and-peace/2': RouteRecordInfo<
-      '/collections1/love-and-peace/2',
-      '/collections1/love-and-peace/2',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/collections1/love-and-peace/3': RouteRecordInfo<
-      '/collections1/love-and-peace/3',
-      '/collections1/love-and-peace/3',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/collections1/README': RouteRecordInfo<
-      '/collections1/README',
-      '/collections1/README',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/examples/addons/components': RouteRecordInfo<
-      '/examples/addons/components',
-      '/examples/addons/components',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/examples/custom-components': RouteRecordInfo<
-      '/examples/custom-components',
-      '/examples/custom-components',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/examples/sites': RouteRecordInfo<
-      '/examples/sites',
-      '/examples/sites',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/examples/without-aside': RouteRecordInfo<
-      '/examples/without-aside',
-      '/examples/without-aside',
       Record<never, never>,
       Record<never, never>,
       | never
@@ -229,13 +82,6 @@ declare module 'vue-router/auto-routes' {
     '/links/': RouteRecordInfo<
       '/links/',
       '/links',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/notes/': RouteRecordInfo<
-      '/notes/',
-      '/notes',
       Record<never, never>,
       Record<never, never>,
       | never
@@ -282,118 +128,6 @@ declare module 'vue-router/auto-routes' {
       Record<never, never>,
       | never
     >,
-    '/posts/about': RouteRecordInfo<
-      '/posts/about',
-      '/posts/about',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/posts/aplayer': RouteRecordInfo<
-      '/posts/aplayer',
-      '/posts/aplayer',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/posts/categories-a-b': RouteRecordInfo<
-      '/posts/categories-a-b',
-      '/posts/categories-a-b',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/posts/categories-a-b-c': RouteRecordInfo<
-      '/posts/categories-a-b-c',
-      '/posts/categories-a-b-c',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/posts/code': RouteRecordInfo<
-      '/posts/code',
-      '/posts/code',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/posts/date': RouteRecordInfo<
-      '/posts/date',
-      '/posts/date',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/posts/design': RouteRecordInfo<
-      '/posts/design',
-      '/posts/design',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/posts/dev': RouteRecordInfo<
-      '/posts/dev',
-      '/posts/dev',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/posts/draft': RouteRecordInfo<
-      '/posts/draft',
-      '/posts/draft',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/posts/encrypted-part-post': RouteRecordInfo<
-      '/posts/encrypted-part-post',
-      '/posts/encrypted-part-post',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/posts/encrypted-post': RouteRecordInfo<
-      '/posts/encrypted-post',
-      '/posts/encrypted-post',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/posts/excerpt-type-ai': RouteRecordInfo<
-      '/posts/excerpt-type-ai',
-      '/posts/excerpt-type-ai',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/posts/excerpt-type-html': RouteRecordInfo<
-      '/posts/excerpt-type-html',
-      '/posts/excerpt-type-html',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/posts/excerpt-type-md': RouteRecordInfo<
-      '/posts/excerpt-type-md',
-      '/posts/excerpt-type-md',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/posts/excerpt-type-text': RouteRecordInfo<
-      '/posts/excerpt-type-text',
-      '/posts/excerpt-type-text',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/posts/framework-and-pages': RouteRecordInfo<
-      '/posts/framework-and-pages',
-      '/posts/framework-and-pages',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
     '/posts/hello-valaxy': RouteRecordInfo<
       '/posts/hello-valaxy',
       '/posts/hello-valaxy',
@@ -401,191 +135,9 @@ declare module 'vue-router/auto-routes' {
       Record<never, never>,
       | never
     >,
-    '/posts/hide': RouteRecordInfo<
-      '/posts/hide',
-      '/posts/hide',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/posts/hide-in-index': RouteRecordInfo<
-      '/posts/hide-in-index',
-      '/posts/hide-in-index',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/posts/how-to-use-adboard': RouteRecordInfo<
-      '/posts/how-to-use-adboard',
-      '/posts/how-to-use-adboard',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/posts/katex': RouteRecordInfo<
-      '/posts/katex',
-      '/posts/katex',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/posts/long-toc': RouteRecordInfo<
-      '/posts/long-toc',
-      '/posts/long-toc',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/posts/lots-of-images': RouteRecordInfo<
-      '/posts/lots-of-images',
-      '/posts/lots-of-images',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/posts/markdown': RouteRecordInfo<
-      '/posts/markdown',
-      '/posts/markdown',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/posts/mermaid': RouteRecordInfo<
-      '/posts/mermaid',
-      '/posts/mermaid',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/posts/nested/a/b/c': RouteRecordInfo<
-      '/posts/nested/a/b/c',
-      '/posts/nested/a/b/c',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/posts/nested/z/': RouteRecordInfo<
-      '/posts/nested/z/',
-      '/posts/nested/z',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/posts/post-updated': RouteRecordInfo<
-      '/posts/post-updated',
-      '/posts/post-updated',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/posts/redirect': RouteRecordInfo<
-      '/posts/redirect',
-      '/posts/redirect',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/posts/test': RouteRecordInfo<
-      '/posts/test',
-      '/posts/test',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/posts/test-images': RouteRecordInfo<
-      '/posts/test-images',
-      '/posts/test-images',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/posts/test-tags': RouteRecordInfo<
-      '/posts/test-tags',
-      '/posts/test-tags',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/posts/type-link-jump': RouteRecordInfo<
-      '/posts/type-link-jump',
-      '/posts/type-link-jump',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/projects/': RouteRecordInfo<
-      '/projects/',
-      '/projects',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/sponsors/': RouteRecordInfo<
-      '/sponsors/',
-      '/sponsors',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
     '/tags/': RouteRecordInfo<
       '/tags/',
       '/tags',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/test/deadlinks': RouteRecordInfo<
-      '/test/deadlinks',
-      '/test/deadlinks',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/test/define-basic-loader': RouteRecordInfo<
-      '/test/define-basic-loader',
-      '/test/define-basic-loader',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/test/footnotes': RouteRecordInfo<
-      '/test/footnotes',
-      '/test/footnotes',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/test/i18n': RouteRecordInfo<
-      '/test/i18n',
-      '/test/i18n',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/test/markdown-file-inclusion': RouteRecordInfo<
-      '/test/markdown-file-inclusion',
-      '/test/markdown-file-inclusion',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/test/special-character': RouteRecordInfo<
-      '/test/special-character',
-      '/test/special-character',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/test/time_warning': RouteRecordInfo<
-      '/test/time_warning',
-      '/test/time_warning',
-      Record<never, never>,
-      Record<never, never>,
-      | never
-    >,
-    '/yun/': RouteRecordInfo<
-      '/yun/',
-      '/yun',
       Record<never, never>,
       Record<never, never>,
       | never
@@ -606,12 +158,6 @@ declare module 'vue-router/auto-routes' {
     'node_modules/.pnpm/valaxy-theme-yun@0.26.12_vue@3.5.22_typescript@5.9.3_/node_modules/valaxy-theme-yun/pages/index.vue': {
       routes:
         | '/'
-      views:
-        | never
-    }
-    'pages/_drafts/README.md': {
-      routes:
-        | '/_drafts/README'
       views:
         | never
     }
@@ -639,135 +185,15 @@ declare module 'vue-router/auto-routes' {
       views:
         | never
     }
-    'pages/albums/index.md': {
-      routes:
-        | '/albums/'
-      views:
-        | never
-    }
-    'pages/albums/daily.md': {
-      routes:
-        | '/albums/daily'
-      views:
-        | never
-    }
-    'pages/albums/miracle.md': {
-      routes:
-        | '/albums/miracle'
-      views:
-        | never
-    }
-    'pages/albums/sunset.md': {
-      routes:
-        | '/albums/sunset'
-      views:
-        | never
-    }
-    'pages/albums/young.md': {
-      routes:
-        | '/albums/young'
-      views:
-        | never
-    }
     'pages/archives/index.md': {
       routes:
         | '/archives/'
       views:
         | never
     }
-    'pages/bangumi/index.md': {
-      routes:
-        | '/bangumi/'
-      views:
-        | never
-    }
     'pages/categories/index.md': {
       routes:
         | '/categories/'
-      views:
-        | never
-    }
-    'pages/collections1/index.md': {
-      routes:
-        | '/collections1/'
-      views:
-        | never
-    }
-    'pages/collections1/i-and-she/index.md': {
-      routes:
-        | '/collections1/i-and-she/'
-      views:
-        | never
-    }
-    'pages/collections1/i-and-she/1.md': {
-      routes:
-        | '/collections1/i-and-she/1'
-      views:
-        | never
-    }
-    'pages/collections1/i-and-she/2.md': {
-      routes:
-        | '/collections1/i-and-she/2'
-      views:
-        | never
-    }
-    'pages/collections1/i-and-she/3.md': {
-      routes:
-        | '/collections1/i-and-she/3'
-      views:
-        | never
-    }
-    'pages/collections1/love-and-peace/index.md': {
-      routes:
-        | '/collections1/love-and-peace/'
-      views:
-        | never
-    }
-    'pages/collections1/love-and-peace/1.md': {
-      routes:
-        | '/collections1/love-and-peace/1'
-      views:
-        | never
-    }
-    'pages/collections1/love-and-peace/2.md': {
-      routes:
-        | '/collections1/love-and-peace/2'
-      views:
-        | never
-    }
-    'pages/collections1/love-and-peace/3.md': {
-      routes:
-        | '/collections1/love-and-peace/3'
-      views:
-        | never
-    }
-    'pages/collections1/README.md': {
-      routes:
-        | '/collections1/README'
-      views:
-        | never
-    }
-    'pages/examples/addons/components.md': {
-      routes:
-        | '/examples/addons/components'
-      views:
-        | never
-    }
-    'pages/examples/custom-components.md': {
-      routes:
-        | '/examples/custom-components'
-      views:
-        | never
-    }
-    'pages/examples/sites.md': {
-      routes:
-        | '/examples/sites'
-      views:
-        | never
-    }
-    'pages/examples/without-aside.md': {
-      routes:
-        | '/examples/without-aside'
       views:
         | never
     }
@@ -780,12 +206,6 @@ declare module 'vue-router/auto-routes' {
     'pages/links/index.md': {
       routes:
         | '/links/'
-      views:
-        | never
-    }
-    'pages/notes/index.md': {
-      routes:
-        | '/notes/'
       views:
         | never
     }
@@ -825,267 +245,15 @@ declare module 'vue-router/auto-routes' {
       views:
         | never
     }
-    'pages/posts/about.md': {
-      routes:
-        | '/posts/about'
-      views:
-        | never
-    }
-    'pages/posts/aplayer.md': {
-      routes:
-        | '/posts/aplayer'
-      views:
-        | never
-    }
-    'pages/posts/categories-a-b.md': {
-      routes:
-        | '/posts/categories-a-b'
-      views:
-        | never
-    }
-    'pages/posts/categories-a-b-c.md': {
-      routes:
-        | '/posts/categories-a-b-c'
-      views:
-        | never
-    }
-    'pages/posts/code.md': {
-      routes:
-        | '/posts/code'
-      views:
-        | never
-    }
-    'pages/posts/date.md': {
-      routes:
-        | '/posts/date'
-      views:
-        | never
-    }
-    'pages/posts/design.md': {
-      routes:
-        | '/posts/design'
-      views:
-        | never
-    }
-    'pages/posts/dev.md': {
-      routes:
-        | '/posts/dev'
-      views:
-        | never
-    }
-    'pages/posts/draft.md': {
-      routes:
-        | '/posts/draft'
-      views:
-        | never
-    }
-    'pages/posts/encrypted-part-post.md': {
-      routes:
-        | '/posts/encrypted-part-post'
-      views:
-        | never
-    }
-    'pages/posts/encrypted-post.md': {
-      routes:
-        | '/posts/encrypted-post'
-      views:
-        | never
-    }
-    'pages/posts/excerpt-type-ai.md': {
-      routes:
-        | '/posts/excerpt-type-ai'
-      views:
-        | never
-    }
-    'pages/posts/excerpt-type-html.md': {
-      routes:
-        | '/posts/excerpt-type-html'
-      views:
-        | never
-    }
-    'pages/posts/excerpt-type-md.md': {
-      routes:
-        | '/posts/excerpt-type-md'
-      views:
-        | never
-    }
-    'pages/posts/excerpt-type-text.md': {
-      routes:
-        | '/posts/excerpt-type-text'
-      views:
-        | never
-    }
-    'pages/posts/framework-and-pages.md': {
-      routes:
-        | '/posts/framework-and-pages'
-      views:
-        | never
-    }
     'pages/posts/hello-valaxy.md': {
       routes:
         | '/posts/hello-valaxy'
       views:
         | never
     }
-    'pages/posts/hide.md': {
-      routes:
-        | '/posts/hide'
-      views:
-        | never
-    }
-    'pages/posts/hide-in-index.md': {
-      routes:
-        | '/posts/hide-in-index'
-      views:
-        | never
-    }
-    'pages/posts/how-to-use-adboard.md': {
-      routes:
-        | '/posts/how-to-use-adboard'
-      views:
-        | never
-    }
-    'pages/posts/katex.md': {
-      routes:
-        | '/posts/katex'
-      views:
-        | never
-    }
-    'pages/posts/long-toc.md': {
-      routes:
-        | '/posts/long-toc'
-      views:
-        | never
-    }
-    'pages/posts/lots-of-images.md': {
-      routes:
-        | '/posts/lots-of-images'
-      views:
-        | never
-    }
-    'pages/posts/markdown.md': {
-      routes:
-        | '/posts/markdown'
-      views:
-        | never
-    }
-    'pages/posts/mermaid.md': {
-      routes:
-        | '/posts/mermaid'
-      views:
-        | never
-    }
-    'pages/posts/nested/a/b/c.md': {
-      routes:
-        | '/posts/nested/a/b/c'
-      views:
-        | never
-    }
-    'pages/posts/nested/z/index.md': {
-      routes:
-        | '/posts/nested/z/'
-      views:
-        | never
-    }
-    'pages/posts/post-updated.md': {
-      routes:
-        | '/posts/post-updated'
-      views:
-        | never
-    }
-    'pages/posts/redirect.md': {
-      routes:
-        | '/posts/redirect'
-      views:
-        | never
-    }
-    'pages/posts/test.md': {
-      routes:
-        | '/posts/test'
-      views:
-        | never
-    }
-    'pages/posts/test-images.md': {
-      routes:
-        | '/posts/test-images'
-      views:
-        | never
-    }
-    'pages/posts/test-tags.md': {
-      routes:
-        | '/posts/test-tags'
-      views:
-        | never
-    }
-    'pages/posts/type-link-jump.md': {
-      routes:
-        | '/posts/type-link-jump'
-      views:
-        | never
-    }
-    'pages/projects/index.md': {
-      routes:
-        | '/projects/'
-      views:
-        | never
-    }
-    'pages/sponsors/index.md': {
-      routes:
-        | '/sponsors/'
-      views:
-        | never
-    }
     'pages/tags/index.md': {
       routes:
         | '/tags/'
-      views:
-        | never
-    }
-    'pages/test/deadlinks.md': {
-      routes:
-        | '/test/deadlinks'
-      views:
-        | never
-    }
-    'pages/test/define-basic-loader.md': {
-      routes:
-        | '/test/define-basic-loader'
-      views:
-        | never
-    }
-    'pages/test/footnotes.md': {
-      routes:
-        | '/test/footnotes'
-      views:
-        | never
-    }
-    'pages/test/i18n.md': {
-      routes:
-        | '/test/i18n'
-      views:
-        | never
-    }
-    'pages/test/markdown-file-inclusion.md': {
-      routes:
-        | '/test/markdown-file-inclusion'
-      views:
-        | never
-    }
-    'pages/test/special-character.md': {
-      routes:
-        | '/test/special-character'
-      views:
-        | never
-    }
-    'pages/test/time_warning.md': {
-      routes:
-        | '/test/time_warning'
-      views:
-        | never
-    }
-    'pages/yun/index.md': {
-      routes:
-        | '/yun/'
       views:
         | never
     }
