@@ -15,7 +15,7 @@ export default defineSiteConfig({
   url: 'https://gt.1314220.xyz',
  
   author: {
-    avatar: 'https://gt.1314220.xyz/2.jpg',
+    avatar: '2.jpg',
     name: '小猪',
     
  
