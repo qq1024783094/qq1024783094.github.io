@@ -29,9 +29,12 @@ jobs:
       - name: 🌌 Build Valaxy Blog
         run: npm run build
 
+      # 新增步骤：将CNAME文件复制到构建输出目录
+      - name: 📄 Copy CNAME to dist
+        run: cp CNAME ./dist/
+
       - name: 🪤 Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
-          force_orphan: true
