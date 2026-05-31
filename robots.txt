@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gt.1314220.xyz/sitemap.xml
