@@ -1,0 +1,1 @@
+import{W as e}from"./theme.sH_uv07e.js";var t=e({defaults:{"@type":`PostalAddress`}});export{t as addressResolver};
