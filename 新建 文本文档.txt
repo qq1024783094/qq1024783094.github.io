@@ -1,3 +1,0 @@
-    <RouterLink to="/posts/how-to-use-adboard">
-      广告
-    </RouterLink>

@@ -24,9 +24,9 @@ export default defineThemeConfig({
       link: '/projects',
       items: [
         { text: '项目列表', link: '/projects' },
-        { text: '友情链接', link: '/links' },
-        { text: '老婆列表', link: '/girls' },
-        
+        { text: 'AI导航', link: '/links' },
+        { text: '网址导航', link: '/girls' },
+
       ],
     },
   ],
@@ -37,12 +37,6 @@ export default defineThemeConfig({
       url: '/projects',
       icon: 'material-symbols--list-alt-outline',
       color: '#1c7a00',
-    },
-    {
-      name: '相册',
-      url: '/albums',
-      icon: 'ic--outline-photo',
-      color: '#eb4abd',
     },
     {
       name: 'AI导航',
@@ -56,7 +50,7 @@ export default defineThemeConfig({
       icon: 'basil--navigation-outline2',
       color: '#f96829',
     },
-  
+
   ],
 
   footer: {

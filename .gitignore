@@ -1,10 +1,13 @@
+# valaxy
+
+valaxy-fuse-list.json
+
 # vite-ssg
+
 .vite-ssg-dist
 .vite-ssg-temp
 
 temp/
-# temp pages
-pages/temp/
 
 .DS_Store
 *.local
@@ -23,10 +26,7 @@ public/valaxy-fuse-list.json
 public/feed.xml
 
 # valaxy rss
-public/feed.json
-
-# valaxy rss
 public/atom.xml
 
-# rollup-plugin-visualizer
-stats.html
+# valaxy rss
+public/feed.json

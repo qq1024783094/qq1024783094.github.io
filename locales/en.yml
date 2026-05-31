@@ -1,5 +1,4 @@
-docs:
-  view_docs: See Docs
-
-excerpt:
-  ai: AI-Generated Excerpt
+# you can custom locale
+intro:
+  desc: Valaxy Template
+  hi: Hello, Valaxy!
