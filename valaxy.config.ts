@@ -24,6 +24,20 @@ export default defineValaxyConfig<ThemeConfig>({
   // see theme.config.ts or write in themeConfig
   // themeConfig in theme.config.ts
 
+  vite: {
+    build: {
+      rollupOptions: {
+        onwarn(warning, warn) {
+          if (warning.code === 'INVALID_ANNOTATION' && warning.id?.includes('node_modules')) {
+            return
+          }
+          warn(warning)
+        },
+      },
+      chunkSizeWarningLimit: 1000,
+    },
+  },
+
   build: {
     ssgForPagination: true,
   },
