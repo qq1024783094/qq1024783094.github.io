@@ -12,7 +12,6 @@
     "serve": "vite preview"
   },
   "dependencies": {
-<<<<<<< HEAD
     "valaxy": "latest",
     "valaxy-addon-algolia": "latest",
     "valaxy-addon-artalk": "^0.1.3",
@@ -27,12 +26,5 @@
   "devDependencies": {
     "@iconify-json/carbon": "^1.2.22",
     "nodemon": "^3.1.14"
-=======
-    "valaxy": "0.26.12",
-    "valaxy-theme-yun": "0.26.12"
-  },
-  "devDependencies": {
-    "typescript": "^5.9.3"
->>>>>>> 7ad785db70c32cd9e347a07ace8f9b4df98534f8
   }
 }
