@@ -14,7 +14,7 @@
   "dependencies": {
     "valaxy": "latest",
     "valaxy-addon-algolia": "latest",
-    "valaxy-addon-artalk": "^0.1.3",
+    "valaxy-addon-artalk": "latest",
     "valaxy-addon-bangumi": "latest",
     "valaxy-addon-components": "latest",
     "valaxy-addon-lightgallery": "latest",
