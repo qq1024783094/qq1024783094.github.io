@@ -5,7 +5,6 @@ import { addonAlgolia } from 'valaxy-addon-algolia'
 import { addonBangumi } from 'valaxy-addon-bangumi'
 import { addonComponents } from 'valaxy-addon-components'
 import { addonLightGallery } from 'valaxy-addon-lightgallery'
-import { addonTest } from 'valaxy-addon-test'
 
 // import { addonMeting } from 'valaxy-addon-meting'
 
@@ -113,14 +112,5 @@ export default defineValaxyConfig<ThemeConfig>({
     // }),
 
     addonLightGallery(),
-    // addonMeting({
-    //   global: true,
-    //   props: {
-    //     id: '2049540645',
-    //     server: 'netease',
-    //     type: 'song',
-    //   },
-    // }),
-    addonTest(),
   ],
 })

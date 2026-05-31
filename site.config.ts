@@ -13,13 +13,13 @@ export default defineSiteConfig({
   subtitle: '世人皆说神仙好，惟有功名忘不了',
   timezone: 'Asia/Shanghai',
   url: 'https://gt.1314220.xyz',
- 
+
   author: {
-    avatar: '2.jpg',
+    avatar: '/2.jpg',
     name: '小猪',
-    
- 
-    
+
+
+
   },
   description: '一只生活在神仙渡的小猪.',
   social: [
